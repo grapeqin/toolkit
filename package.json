@@ -1,0 +1,25 @@
+{
+  "name": "org.jassen",
+  "version": "1.0.0",
+  "description": "存放我用nodejs写的日常小工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitlab": "^14.2.2",
+    "http": "0.0.1-security",
+    "moment": "^2.29.4",
+    "node-fetch": "^2.6.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grapeqin/toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/grapeqin/toolkit/issues"
+  },
+  "homepage": "https://github.com/grapeqin/toolkit#readme"
+}
